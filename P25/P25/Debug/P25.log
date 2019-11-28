@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Winston Yixi\Desktop\高階語言程式實習課\HW\20191128\108360216_莊曜丞\P25\source\main.c(24,15): warning C4244:  '函式': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  P25.vcxproj -> C:\Users\Winston Yixi\Desktop\高階語言程式實習課\HW\20191128\108360216_莊曜丞\P25\P25\Debug\P25.exe
